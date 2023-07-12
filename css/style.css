@@ -20,5 +20,11 @@ p{
 image{
     max-width: 100%;
     height: auto;
-    position:relative;
+    position: relative;
+}
+a{
+    text-decoration: none;
+}
+figcaption {
+    text-align: center;
 }
